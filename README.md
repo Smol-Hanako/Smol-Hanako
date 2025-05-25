@@ -1,16 +1,36 @@
-## 👋 Hey there! I’m @Smol-Hanako 🎮 🚀
 
-🔍 Here's what you should know about me:
+<img align="middle" src="gifs/header-banner.gif" width="1000" />
 
-- 💡 Building VR Trackers to explore new dimensions!
-- 🎶 Always tuned into music while crafting
-- 🌱 Learning and growing every day!
-- 📫 Reach me on [Discord](https://discord.com/invite/NhzWBtB85z)
-- 💁 Pronouns: She / Her
-- 🎉 Fun fact: I'm the Silly side of [BerrySense Dynamics](https://github.com/BerrySense-Dynamics)
-- 🤖 Building VR Tracker and Thinking about new Ideas!
-- 🌌 Exploring the virtual universe
+<img align="left" src="gifs/pfp.gif" width="180" />
 
-🌟 Let's connect and innovate together! 💻
+```js
+> console.log("Hey there, I'm 'Hannah' — part code, part chaos 💿✨");
+```
+```zsh
+> echo "🏳️‍⚧️ pronouns set to she/her — always and forever"
+```
+```lua
+> system.os = "Tiny11 Pro" .. " + " .. "Arch Linux" -- dual boot is essential!
+```
+ <!-- ```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@text in purple (and bold)@@
+```
+-->
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G5X8604)
+<img align="right" src="gifs/banner.gif" width="410" />
+
+```c#
+bio = {
+  role = "🧪 Biochemical Researcher",
+  side_quest = "💻 Part-Time Coder",
+  skills = { "🎨 3D Modeling", "🖨️ FDM Printing" },
+  passion = "🕶️ VR Technology",
+  current_project = "🌐 Next-Gen VR Experience",
+  personality = "✨Creative, Curious, Slightly Chaotic✨",
+  discord = "@lil_hannah420"
+}
+```
