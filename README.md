@@ -1,7 +1,7 @@
 
 <img align="middle" src="gifs/header-banner.gif" width="1000" />
 
-<img align="left" src="gifs/pfp.gif" width="180" />
+<img align="left" src="gifs/pfp.gif" width="187" />
 
 ```js
 > console.log("Hey there, I'm 'Hannah' — part code, part chaos 💿✨");
