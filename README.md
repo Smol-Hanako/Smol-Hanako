@@ -31,6 +31,6 @@ bio = {
   passion = "🕶️ VR Technology",
   current_project = "🌐 Next-Gen VR Experience",
   personality = "✨Creative, Curious, Slightly Chaotic✨",
-  discord = "@lil_hannah420"
+  discord = "@hannachiii_xD"
 }
 ```
