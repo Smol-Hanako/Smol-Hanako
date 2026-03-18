@@ -4,13 +4,13 @@
 <img align="left" src="gifs/pfp.gif" width="187" />
 
 ```js
-> console.log("Hey there, I'm 'Hannah' — part code, part chaos 💿✨");
+> console.log("Hey there, I'm 'Lunar' — part code, part chaos");
 ```
 ```zsh
 > echo "🏳️‍⚧️ pronouns set to she/her — always and forever"
 ```
 ```lua
-> system.os = "Tiny11 Pro" .. " + " .. "Arch Linux" -- dual boot is essential!
+> system.os = "Nobara" .. " + " .. "Arch Linux" .. " + " ..  "Ubuntu Server"
 ```
  <!-- ```diff
 - text in red
@@ -25,12 +25,12 @@
 
 ```c#
 bio = {
-  role = "🧪 Biochemical Researcher",
-  side_quest = "💻 Part-Time Coder",
-  skills = { "🎨 3D Modeling", "🖨️ FDM Printing" },
+  role = "Biochemical Researcher",
+  side_quest = "Part-Time Coder",
+  skills = { "3D Modeling", "3d Printing" },
   passion = "🕶️ VR Technology",
-  current_project = "🌐 Next-Gen VR Experience",
-  personality = "✨Creative, Curious, Slightly Chaotic✨",
-  discord = "@hannachiii_xD"
+  current_project = "xh4u client",
+  personality = "Creative, Curious, Very Chaotic",
+  discord = "@lunar_weed"
 }
 ```
